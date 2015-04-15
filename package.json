@@ -1,0 +1,29 @@
+{
+  "name": "node_mustache",
+  "version": "1.0.0",
+  "description": "Sample node and express application setup using mustache template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gadapa-rakesh/node_mustache.git"
+  },
+  "keywords": [
+    "node",
+    "mustache",
+    "express"
+  ],
+  "author": "Rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadapa-rakesh/node_mustache/issues"
+  },
+  "homepage": "https://github.com/gadapa-rakesh/node_mustache",
+  "dependencies": {
+    "consolidate": "^0.12.1",
+    "express": "^4.12.3",
+    "mustache": "^2.0.0"
+  }
+}
